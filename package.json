@@ -1,0 +1,23 @@
+{
+  "name": "csv-to-json",
+  "version": "1.0.0",
+  "description": "## Objectives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/herdez/csv-to-json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/herdez/csv-to-json/issues"
+  },
+  "homepage": "https://gitlab.com/herdez/csv-to-json#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.8"
+  }
+}
